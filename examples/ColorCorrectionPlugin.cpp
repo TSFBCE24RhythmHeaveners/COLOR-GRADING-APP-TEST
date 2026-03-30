@@ -1,7 +1,7 @@
 /*
  * ColorCorrectionPlugin.cpp
  *
- * Example OFX Color Correction Plugin for DaVinci Resolve
+ * Example OFX Color Correction Plugin for Vegas Pro
  * Demonstrates gain, gamma, and saturation controls
  */
 
@@ -19,7 +19,7 @@
 #define kPluginName "ColorCorrection"
 #define kPluginGrouping "Color"
 #define kPluginDescription "Basic color correction with gain, gamma, and saturation controls"
-#define kPluginIdentifier "com.example.ofx.ColorCorrection"
+#define kPluginIdentifier "com.ilovedogs5335.ofx.ColorCorrection"
 #define kPluginVersionMajor 1
 #define kPluginVersionMinor 0
 
